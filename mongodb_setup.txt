@@ -1,0 +1,6 @@
+# MongoDB Setup Guide
+
+1. Download and install MongoDB Community Edition from https://www.mongodb.com/try/download/community
+2. Start MongoDB server (default port 27017)
+3. The backend connects to MongoDB at mongodb://localhost:27017/ums
+4. No extra config needed for local development.
